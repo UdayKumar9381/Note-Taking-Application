@@ -146,8 +146,10 @@ Contributions are welcome! Please follow these steps:
 For questions or feedback, please open an issue on GitHub or contact:
 
 Name - Narapureddy Uday Kumar
+
 Email - udayreddi28@gmail.com
-Project Link: 
+
+Project Link: https://github.com/UdayKumar9381/Note-Taking-Application.git
 
 ## Screenshots
 
