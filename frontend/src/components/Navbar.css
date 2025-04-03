@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    padding: 15px 20px;
+    background: linear-gradient(45deg, #ff7e5f, #feb47b); /* Smooth gradient effect */
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a,
+  .nav-links button {
+    text-decoration: none;
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .nav-links button {
+    background: #dc3545;
+  }
+  
+  .nav-links a:hover,
+  .nav-links button:hover {
+    opacity: 0.8;
+  }
+  
